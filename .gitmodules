@@ -1,0 +1,9 @@
+[submodule "nomad-zip-fe"]
+	path = nomad-zip-fe
+	url = https://github.com/NOMAD-zip/nomad-zip-fe.git
+[submodule "nomad-zip-be"]
+	path = nomad-zip-be
+	url = https://github.com/NOMAD-zip/nomad-zip-be.git
+[submodule "nomad-zip-ai"]
+	path = nomad-zip-ai
+	url = https://github.com/NOMAD-zip/nomad-zip-ai.git
